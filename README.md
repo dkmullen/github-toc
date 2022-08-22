@@ -9,3 +9,9 @@
 [ACE Awards](https://github.com/dkmullen/ace)
 
 [Portfolio (2018)](https://github.com/dkmullen/my-portfolio)
+
+[Cocktail App](https://github.com/dkmullen/cocktail-api-project)
+
+[Vue Starter (improved)](https://github.com/dkmullen/vue-starter-improved)
+
+[Vue 3 Composition API](https://github.com/dkmullen/composition-api-examples)
